@@ -1,14 +1,14 @@
 # Pedestrian-Location-Prediction-based-on-YOLOv3
 An implementation of my university graduation project.
 
-##Introduction
+## Introduction
 
 * We trained an LSTM model to predict the next location of pedestrian to avoid mistake of YOLOv3.
 * We recorded more than 100 videos by Google pixel 3
 
 ## Results
 
-### Inside testing results
+### Inside testing results(we simulated the yolo mistake)
 
 | Normal | Mistake | Normal |
 |-------|-------|-------|
