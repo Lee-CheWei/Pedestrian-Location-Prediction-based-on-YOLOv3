@@ -20,7 +20,7 @@ An implementation of my university graduation project.
 |-------|-------|-------|
 |![image](images/4.jpg) | ![image](images/5.jpg)| ![image](images/6.jpg)|
 
-### model training results
+### Model training results
 
 | LSTM Model | Loss |
 |-------|-------|
